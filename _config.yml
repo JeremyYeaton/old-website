@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
 title: Jeremy Yeaton
+logo: logo.gif
 plugins:
   - jekyll-sitemap

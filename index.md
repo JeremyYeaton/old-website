@@ -1,6 +1,5 @@
 ## About me
-I'm a second-year master's student in Cognitive Science at the ´
-Ecole normale sup´ erieure in Paris.
+I'm a second-year master's student in Cognitive Science at the Ecole normale superieure in Paris.
 
 ### Some current projects
 

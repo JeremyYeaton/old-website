@@ -13,3 +13,6 @@ My master's thesis is an experimental project examining the impact of proficienc
 ### CV
 [Click here for my CV](https://jdyeaton27.github.io/CV_YEATON.pdf)
 
+### [You can read my papers here](https://jdyeaton27.github.io/papers)
+
+### [You can check out my conference posters or slides here](https://jdyeaton27.github.io/slides)

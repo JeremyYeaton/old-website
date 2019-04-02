@@ -10,8 +10,7 @@ My master's thesis is an experimental project examining the impact of proficienc
 - Giovanni, semantics and phonetics
 - Isel, ERPs and executive functioning
 
-### CV
-[Click here for my CV](https://jdyeaton27.github.io/CV_YEATON.pdf)
+### [Click here for my CV](https://jdyeaton27.github.io/CV_YEATON.pdf)
 
 ### [You can read my papers here](https://jdyeaton27.github.io/papers)
 

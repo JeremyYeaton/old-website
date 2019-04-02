@@ -6,7 +6,7 @@ My master's thesis is an experimental project examining the impact of proficienc
 
 ### Some current projects
 
-- Deprez and negation
+- Since 2012, I have been working with Prof. Viviane Deprez at Rutgers University on questions of negation, particularly negative concord.
 - Giovanni, semantics and phonetics
 - Isel, ERPs and executive functioning
 

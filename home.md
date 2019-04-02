@@ -1,6 +1,8 @@
 ## About me
 I'm a second-year master's student in Cognitive Science at the Ecole normale superieure in Paris.
 
+My master's thesis is an experimental project examining the roles of proficiency and executive functioning on the processing of syntactic (in this case word order) violations in second language processing. See below for some of my other current projects.
+
 ### Some current projects
 
 - Deprez and negation

@@ -1,5 +1,6 @@
 theme: jekyll-theme-minimal
 title: Jeremy Yeaton
+tagline: Language and Brain Enthusiast
 logo: files/logo.jpg
 plugins:
   - jekyll-sitemap

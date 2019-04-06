@@ -1,3 +1,5 @@
+![Poster presentation](files/poster.jpg)
+
 ## About me
 I'm a second-year master's student in Cognitive Science at the Ecole normale superieure in Paris, and am fascinated with how meaning and structure in language are represented in the brain, as well as how the representations of languages might interact in speakers (or signers) who know more than one.
 

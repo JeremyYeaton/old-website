@@ -14,6 +14,6 @@ Before starting my master's, I double majored in Linguistics and French, and min
 - Isel, ERPs and executive functioning
 
 
-### [You can read my papers here](https://jdyeaton27.github.io/papers)
+### [Articles / Publications](https://jdyeaton27.github.io/papers)
 
-### [You can check out my conference posters or slides here](https://jdyeaton27.github.io/slides)
+### [Conference slides / Posters](https://jdyeaton27.github.io/slides)

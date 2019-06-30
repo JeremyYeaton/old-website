@@ -11,17 +11,11 @@
 
 ## Collaborators
 - Viviane Deprez, Rutgers University
-
 - Giovanni Di Liberto, Ecole Normale Superieure
-
 - Frederic Isel, Universite Paris Nanterre
-
 - Caroline Bogliotti, Universite Paris Nanterre
-
 - Carlo Geraci, Ecole Normale Superieure
-
 - Jeremy Kuhn, Ecole Normale Superieure
-
 - Yaru Wu, Universite Paris Nanterre
 
 

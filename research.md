@@ -11,12 +11,12 @@
 
 ## Collaborators
 - Viviane Deprez, Rutgers University
-- Giovanni Di Liberto, Ecole Normale Superieure
-- Frederic Isel, Universite Paris Nanterre
-- Caroline Bogliotti, Universite Paris Nanterre
-- Carlo Geraci, Ecole Normale Superieure
-- Jeremy Kuhn, Ecole Normale Superieure
-- Yaru Wu, Universite Paris Nanterre
+- Giovanni Di Liberto, École Normale Supérieure
+- Frederic Isel, Université Paris Nanterre
+- Caroline Bogliotti, Université Paris Nanterre
+- Carlo Geraci, École Normale Supérieure
+- Jeremy Kuhn, École Normale Supérieure
+- Yaru Wu, Université Paris Nanterre
 
 
 ## Past projects

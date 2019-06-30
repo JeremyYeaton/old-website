@@ -9,6 +9,15 @@
 
 - **Naturalistic stimuli and EEG in sign language: (Coming soon)** Under the direction of [Giovanni Di Liberto](https://lsp.dec.ens.fr/en/member/7735/giovanni-di-liberto), [Carlo Geraci](https://sites.google.com/site/carlogeraci76/), and [Jeremy Kuhn](http://jeremykuhn.net/), we will record EEG while signers watch videos of stories presented in French Sign Language (Langue des Signes Française--LSF). We can then compare the phonetic, semantic, and syntactic features of the stimuli to their EEG signals and examine a) where and when these are represented in the brain, and b) if and how the tracking of these linguistic features in the visual modality differs from speech in the auditory modality.
 
+## Collaborators
+Viviane Deprez, Rutgers University
+Giovanni Di Liberto, Ecole Normale Superieure
+Frederic Isel, Universite Paris Nanterre
+Caroline Bogliotti, Universite Paris Nanterre
+Carlo Geraci, Ecole Normale Superieure
+Jeremy Kuhn, Ecole Normale Superieure
+Yaru Wu, Universite Paris Nanterre
+
 
 ## Past projects
 - **Representaion of speech sounds in L1 and L2:** Under the direction of [Giovanni Di Liberto](https://lsp.dec.ens.fr/en/member/7735/giovanni-di-liberto), I conducted a pilot EEG study looking at how the [representation of speech sounds](https://www.ncbi.nlm.nih.gov/pubmed/26412129) differs in native and non-native speakers. The sample size was quite small, but the results provide a promising direction for future research.

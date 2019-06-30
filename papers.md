@@ -2,7 +2,7 @@
 
 [Find me on Google Scholar](https://scholar.google.fr/citations?user=YkzLBuwAAAAJ&hl=en)
 
-(2019). **Yeaton, J.** _Visual processing of verb-second word order in second language acquisition: Evidence from ERPs in French-Swedish successive bilinguals._ Unpublished master's thesis. Ecole Normale Superieure, Paris, France. [[PDF]](https://JeremyYeaton.github.io/files/Yeaton_MasterThesis.pdf)
+(2019). **Yeaton, J.** _Visual processing of verb-second word order in second language acquisition: Evidence from ERPs in French-Swedish successive bilinguals._ Unpublished master's thesis. École Normale Supérieure, Paris, France. [[PDF]](https://JeremyYeaton.github.io/files/Yeaton_MasterThesis.pdf)
 
 (2018). Blanchette, F., Nadeu, M., **Yeaton, J.**, & Deprez, V. (2018). _English negative concord and double negation: The division of labor between syntax and pragmatics._ Proceedings of the Linguistic Society of America, 3(1), 53:1-15. doi:http://dx.doi.org/10.3765/plsa.v3i1.4349 [[PDF]](https://JeremyYeaton.github.io/files/LSA2018_EnglishNCandDN.pdf)
 

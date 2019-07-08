@@ -2,7 +2,7 @@
 
 ### Slides
 
-(2018). How Ambiguous are French Double Negative Sequences? Ambigo: Workshop on Ambiguity- Theory, Development, and Processing (July 4-6, 2018) [[slides]](https://JeremyYeaton.github.io/files/amigo2018_web.pdf)
+(2018). How Ambiguous are French Double Negative Sequences? Ambigo: Workshop on Ambiguity- Theory, Development, and Processing (July 4-6, 2018) [[slides]](https://JeremyYeaton.github.io/files/ambigo2018_web.pdf)
 
 (2018). Evidence for Prosodic Phrase Marking in French Double Negation. ConSOLE 26 (Feb. 16, 2018) [[slides]](https://JeremyYeaton.github.io/files/console_2018.pdf)
 

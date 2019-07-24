@@ -1,4 +1,4 @@
-![Poster presentation](files/poster.jpg)
+![Poster presentation](files/me_in_eeg.jpg)
 
 ## About me
 I'm a second-year master's student in Cognitive Science at the [École Normale Supérieure](https://cognition.ens.fr/en) in Paris, and am fascinated with how meaning and structure in language are represented in the brain, as well as how the representations of languages might interact in speakers (or signers) who know more than one.

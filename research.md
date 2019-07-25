@@ -12,7 +12,7 @@
 ## Collaborators
 - Viviane Deprez, Rutgers University
 - Giovanni Di Liberto, École Normale Supérieure
-- Frederic Isel, Université Paris Nanterre
+- Frédéric Isel, Université Paris Nanterre
 - Caroline Bogliotti, Université Paris Nanterre
 - Carlo Geraci, École Normale Supérieure
 - Jeremy Kuhn, École Normale Supérieure

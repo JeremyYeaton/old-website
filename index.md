@@ -1,7 +1,7 @@
 ![Poster presentation](files/poster.jpg)
 
 ## About me
-I am the Biological Signal Processing and Data Analysis Engineer at the Cognitive Psychology Lab at Aix-Marseille University in Marseille, France.
+I am the Biological Signal Processing and Data Analysis Engineer at the [Cognitive Psychology Lab](https://lpc.univ-amu.fr/en) at Aix-Marseille University in Marseille, France.
 
 <!--- What do I do; what am i interested in? --->
 

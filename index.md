@@ -1,7 +1,7 @@
 ![Poster presentation](files/poster.jpg)
 
 ## About me
-I am the Biological Signal Processing and Data Analysis Engineer for the language team at the [Cognitive Psychology Lab](https://lpc.univ-amu.fr/en) at Aix-Marseille University in Marseille, France.
+I am the Biological Signal Processing and Data Analysis Engineer for the language team at the [Cognitive Psychology Lab](https://lpc.univ-amu.fr/en) at Aix-Marseille University in Marseille, France. In this role, I am analyzing EEG and eye-tracking data from a number of experiments that pertain to orthographic, lexical, and sentence-level processing as a part of Jonathan Grainger's [ERC Advanced Grant](https://cordis.europa.eu/project/rcn/212046/factsheet/en).
 
 <!--- What do I do; what am i interested in? --->
 

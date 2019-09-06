@@ -7,7 +7,7 @@
 (2018). Evidence for Prosodic Phrase Marking in French Double Negation. ConSOLE 26 (Feb. 16, 2018) [[slides]](https://JeremyYeaton.github.io/files/console_2018.pdf)
 
 ### Posters
-(2019). How proficiency shapes the hierarchical cortical encoding of non-native speech. Eleventh Annual Meeting of the Society for the Neurobiology of Language (NBL), Helsinki, Finland. August 20-22, 2019. [[poster]](https://JeremyYeaton.github.io/slides/posterSNL_final.pdf)
+(2019). How proficiency shapes the hierarchical cortical encoding of non-native speech. Eleventh Annual Meeting of the Society for the Neurobiology of Language (SNL), Helsinki, Finland. August 20-22, 2019. [[poster]](https://JeremyYeaton.github.io/slides/posterSNL_final.pdf)
 
 (2018). English Negative Concord and Double Negation: The division of labor between syntax and pragmatics. LSA 92 (Jan. 4-17, 2018) [[poster]](https://JeremyYeaton.github.io/slides/lsa2018poster.pdf)
 

@@ -9,17 +9,24 @@
 
 - **Naturalistic stimuli and EEG in sign language: (Coming soon)** Under the direction of [Giovanni Di Liberto](https://lsp.dec.ens.fr/en/member/7735/giovanni-di-liberto), [Carlo Geraci](https://sites.google.com/site/carlogeraci76/), and [Jeremy Kuhn](http://jeremykuhn.net/), we will record EEG while signers watch videos of stories presented in French Sign Language (Langue des Signes Française--LSF). We can then compare the phonetic, semantic, and syntactic features of the stimuli to their EEG signals and examine a) where and when these are represented in the brain, and b) if and how the tracking of these linguistic features in the visual modality differs from speech in the auditory modality.
 
-## Collaborators
-- Viviane Deprez, Rutgers University
-- Giovanni Di Liberto, École Normale Supérieure
-- Frédéric Isel, Université Paris Nanterre
-- Caroline Bogliotti, Université Paris Nanterre
-- Carlo Geraci, École Normale Supérieure
-- Jeremy Kuhn, École Normale Supérieure
-- Yaru Wu, Université Paris Nanterre
+## Current Collaborators
+- [Viviane Déprez](https://www.sites.google.com/site/experimentalsyntax4/), Rutgers University
+- [Giovanni Di Liberto](https://lsp.dec.ens.fr/en/member/7735/giovanni-di-liberto), École Normale Supérieure
+- [Nima Mesgarani](http://nima.ee.columbia.edu/), Columbia University 
+- [Jonathan Grainger](https://lpc.univ-amu.fr/fr/profile/grainger-jonathan), Aix-Marseille Université
+- [Stephane Dufau](https://lpc.univ-amu.fr/fr/profile/dufau-stephane), Aix-Marseille Université
+- [Jonathan Mirault](https://sites.google.com/view/jonathan-mirault/about-me?authuser=0), Aix-Marseille Université
+- [Frederic Isel](https://modyco.fr/fr/component/jsn/Fr%C3%A9d%C3%A9ric.html), Université Paris Nanterre
+- [Caroline Bogliotti](https://sites.google.com/site/carolinebogliotti/), Université Paris Nanterre
+- [Carlo Geraci](https://sites.google.com/site/carlogeraci76/), École Normale Supérieure
+- [Jeremy Kuhn](http://jeremykuhn.net/), École Normale Supérieure
+- [Yaru Wu](https://modyco.fr/fr/component/jsn/yaru.html?Itemid=), Université Paris Nanterre
 
 
 ## Past projects
 - **Representaion of speech sounds in L1 and L2:** Under the direction of [Giovanni Di Liberto](https://lsp.dec.ens.fr/en/member/7735/giovanni-di-liberto), I conducted a pilot EEG study looking at how the [representation of speech sounds](https://www.ncbi.nlm.nih.gov/pubmed/26412129) differs in native and non-native speakers. The sample size was quite small, but the results provide a promising direction for future research.
 
 - **Negative concord in English:** Based on the behavioral and production study [Viviane Deprez](https://www.sites.google.com/site/experimentalsyntax4/customization) and I did in French, [Frances Blanchette](https://cls.la.psu.edu/people/fkb), worked with us to adapt the paradigm to [use in English](https://JeremyYeaton.github.io/files/LSA2018_EnglishNCandDN.pdf). We found that native English speakers can access negative concord interpretations much more than previously thought and that context and prosody also play a major role in determining these interpretations.
+
+## Past Collaborators
+- [Frances Blanchette](https://sites.psu.edu/franceskblanchette/), Penn State University

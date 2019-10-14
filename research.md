@@ -22,11 +22,12 @@
 - [Jeremy Kuhn](http://jeremykuhn.net/), École Normale Supérieure
 - [Yaru Wu](https://modyco.fr/fr/component/jsn/yaru.html?Itemid=), Université Paris Nanterre
 
+
+## Past projects
 [Google Scholar](https://scholar.google.fr/citations?user=YkzLBuwAAAAJ&hl=en) | 
 [ORCID](https://orcid.org/0000-0002-6650-8080) | 
 [ResearchGate](https://www.researchgate.net/profile/Jeremy_Yeaton)
 
-## Past projects
 - **Representaion of speech sounds in L1 and L2:** Under the direction of [Giovanni Di Liberto](https://lsp.dec.ens.fr/en/member/7735/giovanni-di-liberto), I conducted a pilot EEG study looking at how the [representation of speech sounds](https://www.ncbi.nlm.nih.gov/pubmed/26412129) differs in native and non-native speakers. The sample size was quite small, but the results provide a promising direction for future research.
 
 - **Negative concord in English:** Based on the behavioral and production study [Viviane Deprez](https://www.sites.google.com/site/experimentalsyntax4/customization) and I did in French, [Frances Blanchette](https://cls.la.psu.edu/people/fkb), worked with us to adapt the paradigm to [use in English](https://JeremyYeaton.github.io/files/LSA2018_EnglishNCandDN.pdf). We found that native English speakers can access negative concord interpretations much more than previously thought and that context and prosody also play a major role in determining these interpretations.

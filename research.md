@@ -5,7 +5,7 @@
 
 - **Syntax-pragmatics-prosody interface in negation:** Since 2012, I have been working with [Viviane Deprez](https://www.sites.google.com/site/experimentalsyntax4/customization) at Rutgers University on questions of negation, particularly negative concord in French (including writing my [undergraduate thesis](https://JeremyYeaton.github.io/files/Yeaton_UndergradThesis.pdf) on the topic). We have conducted a number of behavioral and [production studies](https://JeremyYeaton.github.io/files/lsrl_46.pdf) investigating the roles syntax, pragmatics, and prosody play in disambiguating a series of multiple negative expressions, like _personne ne boit rien_ (nobody drinks nothing). So far we have found that negative concord does not appear to be the default reading in French, and that sometimes double negation can be preferred. This is highly subject to context, however.
 
-- **Syntactic, semantic, and phonological violations in sign language:** Under the direction of [Caroline Bogliotti](https://sites.google.com/site/carolinebogliotti/), I am helping to conduct two EEG studies. The first seeks to examine ERPs (P600) in response to syntactically ill-formed sentences presented in French sign language. The other seeks to elicit semantic and phonological incongruency ERPs in the same paradigm.
+- **Syntactic, semantic, and phonological violations in sign language:** Under the direction of [Caroline Bogliotti](https://caroline-bogliotti.parisnanterre.fr/), I am helping to conduct two EEG studies. The first seeks to examine ERPs (P600) in response to syntactically ill-formed sentences presented in French sign language. The other seeks to elicit semantic and phonological incongruency ERPs in the same paradigm.
 
 - **Naturalistic stimuli and EEG in sign language: (Coming soon)** Under the direction of [Giovanni Di Liberto](https://lsp.dec.ens.fr/en/member/7735/giovanni-di-liberto), [Carlo Geraci](https://sites.google.com/site/carlogeraci76/), and [Jeremy Kuhn](http://jeremykuhn.net/), we will record EEG while signers watch videos of stories presented in French Sign Language (Langue des Signes Française--LSF). We can then compare the phonetic, semantic, and syntactic features of the stimuli to their EEG signals and examine a) where and when these are represented in the brain, and b) if and how the tracking of these linguistic features in the visual modality differs from speech in the auditory modality.
 
@@ -17,7 +17,7 @@
 - [Stephane Dufau](https://lpc.univ-amu.fr/fr/profile/dufau-stephane), Aix-Marseille Université
 - [Jonathan Mirault](https://sites.google.com/view/jonathan-mirault/about-me?authuser=0), Aix-Marseille Université
 - [Frederic Isel](https://modyco.fr/fr/component/jsn/Fr%C3%A9d%C3%A9ric.html), Université Paris Nanterre
-- [Caroline Bogliotti](https://sites.google.com/site/carolinebogliotti/), Université Paris Nanterre
+- [Caroline Bogliotti](https://caroline-bogliotti.parisnanterre.fr/), Université Paris Nanterre
 - [Carlo Geraci](https://sites.google.com/site/carlogeraci76/), École Normale Supérieure
 - [Jeremy Kuhn](http://jeremykuhn.net/), École Normale Supérieure
 - [Yaru Wu](https://modyco.fr/fr/component/jsn/yaru.html?Itemid=), Université Paris Nanterre

@@ -1,7 +1,6 @@
 ## Papers I've (co-)authored
 
 [Find me on Google Scholar](https://scholar.google.fr/citations?user=YkzLBuwAAAAJ&hl=en)
-
 [And on ORCID](https://orcid.org/0000-0002-6650-8080)
 
 (2019). **Yeaton, J.** _Visual processing of verb-second word order in second language acquisition: Evidence from ERPs in French-Swedish successive bilinguals._ Unpublished master's thesis. École Normale Supérieure, Paris, France. [[PDF]](https://JeremyYeaton.github.io/papers/Yeaton_MasterThesis.pdf)

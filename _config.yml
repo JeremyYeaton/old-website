@@ -3,5 +3,6 @@ title: Jeremy Yeaton
 tagline: Language and Brain Enthusiast
 logo: files/logo.jpg
 show_downloads: true
+google_analytics: UA-150159397-1
 plugins:
   - jekyll-sitemap

@@ -20,7 +20,7 @@
 - [Caroline Bogliotti](https://caroline-bogliotti.parisnanterre.fr/), Université Paris Nanterre
 - [Carlo Geraci](https://sites.google.com/site/carlogeraci76/), École Normale Supérieure
 - [Jeremy Kuhn](http://jeremykuhn.net/), École Normale Supérieure
-- [Yaru Wu](https://modyco.fr/fr/component/jsn/yaru.html?Itemid=), Université Paris Nanterre
+- [Yaru Wu](https://yaruwucven.wordpress.com/), Université Paris Nanterre
 
 
 ## Past projects

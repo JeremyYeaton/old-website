@@ -1,6 +1,6 @@
 ```
 
-
+<a name="DeprezYeaton2018"></a>
 @incollection{DeprezYeaton2018,
    author = "Déprez, Viviane and Yeaton, Jeremy",
    title = "French negative concord and discord: An experimental investigation of contextual and prosodic disambiguation",
@@ -18,7 +18,7 @@
 
 
 
-
+<a name="Blanchette2018"></a>
 @article{Blanchette2018,
 	author = {Blanchette, Frances and Nadeu, Marianna and Yeaton, Jeremy and Deprez, Viviane},
 	year = {2018},
@@ -33,7 +33,7 @@
 
 
 
-
+<a name="YeatonThesis2019"></a>
 @mastersthesis{YeatonThesis2019,
 	author = {Yeaton, Jeremy},
 	year = {2019},
@@ -43,7 +43,7 @@
 }
 
 
-
+<a name="YeatonThesis2015"></a>
 @unpublished{YeatonThesis2015,
 	author = {Yeaton, Jeremy},
 	year = {2015},

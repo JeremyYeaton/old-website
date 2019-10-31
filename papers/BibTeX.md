@@ -1,3 +1,5 @@
+## BibTeX
+
 <div class="entry-content" itemprop="text">
 			<pre><code style="font-size: 13px;">
 
@@ -87,7 +89,7 @@
 
 
 ```
-
+Jeremy is great
 <a name="DeprezYeaton2018"></a>
 @incollection{DeprezYeaton2018,
    author = "Déprez, Viviane and Yeaton, Jeremy",

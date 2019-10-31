@@ -20,4 +20,4 @@ Stony Brook, NY. [[full text](https://JeremyYeaton.github.io/papers/lsrl_46.pdf)
 
 Mirault, J; **Yeaton, JD**; Broqua, F; Dufau, S; Holcomb, P; Grainger, J. _Parafoveal-on-foveal repetition effects in sentence reading:  A co-registered eye-tracking and EEG study._ (Invited for resubmission to Psychophysiology)
 
-Di Liberto, GM; Nie, J; **Yeaton, JD**; Khalighinejad, B; Shamma, S; Mesgarani, N. _How proficiency shapesthe hierarchical cortical encoding of non-native speech._
+Di Liberto, GM; Nie, J; **Yeaton, JD**; Khalighinejad, B; Shamma, S; Mesgarani, N. _How proficiency shapes the hierarchical cortical encoding of non-native speech._

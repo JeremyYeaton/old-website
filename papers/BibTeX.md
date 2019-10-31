@@ -1,4 +1,4 @@
-```{bib}
+```
 
 
 @incollection{DeprezYeaton2018,

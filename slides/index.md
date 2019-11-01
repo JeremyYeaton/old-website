@@ -1,5 +1,7 @@
 ## A selection of talks and posters I've presented
 
+See [my CV](https://jeremyyeaton.github.io/cv) for a complete list of posters and presentations.
+
 ### Slides
 
 (2018). How Ambiguous are French Double Negative Sequences? Ambigo: Workshop on Ambiguity- Theory, Development, and Processing (July 4-6, 2018) [[slides]](https://JeremyYeaton.github.io/slides/ambigo2018_web.pdf)

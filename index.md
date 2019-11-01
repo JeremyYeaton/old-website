@@ -3,7 +3,7 @@
 ## About me
 I am currently the Biological Signal Processing and Data Analysis Engineer for the language team at the [Cognitive Psychology Lab](https://lpc.univ-amu.fr/en) at Aix-Marseille University in Marseille, France. I analyze EEG and eye-tracking data from experiments that pertain to orthographic, lexical, and sentence-level processing as a part of Jonathan Grainger's [ERC Advanced Grant](https://cordis.europa.eu/project/rcn/212046/factsheet/en).
 
-I'm interested in how meaning and structure in language are represented in the brain, especially the processes used to combine smaller units (e.g.: phonemes, words) into larger units (e.g.: phrases, sentences) in real time. From a more methodological standpoint, I'm interested in exploring how we can use existing and novel experimental and computational tools to probe these representations and processes. 
+I'm interested in how meaning and structure in language are represented in the brain, especially the processes used to combine smaller units (e.g.: phonemes, words) into larger units (e.g.: phrases, sentences) in real time. Methodologically, I'm interested in exploring how we can use existing and novel experimental and computational tools to probe these representations and processes. 
 
 <!--- What do I do; what am i interested in? --->
 

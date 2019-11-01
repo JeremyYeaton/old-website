@@ -35,4 +35,4 @@
 - **Negative concord in English:** Based on the behavioral and production study [Viviane Deprez](https://www.sites.google.com/site/experimentalsyntax4/customization) and I did in French, [Frances Blanchette](https://cls.la.psu.edu/people/fkb), worked with us to adapt the paradigm to [use in English](https://JeremyYeaton.github.io/files/LSA2018_EnglishNCandDN.pdf). We found that native English speakers can access negative concord interpretations much more than previously thought and that context and prosody also play a major role in determining these interpretations.
 
 ## Past Collaborators
-- [Frances Blanchette](https://sites.psu.edu/franceskblanchette/), Penn State University
+- [Frances Blanchette](https://sites.psu.edu/franceskblanchette/), Pennsylvania State University

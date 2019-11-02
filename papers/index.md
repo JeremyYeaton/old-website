@@ -6,7 +6,7 @@
 
 (2019). **Yeaton, JD**. _Visual processing of verb-second word order in second language acquisition: Evidence from ERPs in French-Swedish successive bilinguals._ Unpublished master's thesis. École Normale Supérieure, Paris, France. [[full text](https://JeremyYeaton.github.io/papers/Yeaton_MasterThesis.pdf) \| [BibTeX](https://JeremyYeaton.github.io/papers/BibTeX#YeatonThesis2019)]
 
-(2018). Blanchette, F; Nadeu, M; **Yeaton, JD**; Déprez, V. (2018). _English negative concord and double negation: The division of labor between syntax and pragmatics._ Proceedings of the Linguistic Society of America, 3(1), 53:1-15. doi:http://dx.doi.org/10.3765/plsa.v3i1.4349 [[full text](https://JeremyYeaton.github.io/papers/LSA2018_EnglishNCandDN.pdf) \| [BibTeX](https://JeremyYeaton.github.io/papers/BibTeX#Blanchette2018)]
+(2018). Blanchette, F; Nadeu, M; **Yeaton, JD**; Déprez, V. _English negative concord and double negation: The division of labor between syntax and pragmatics._ Proceedings of the Linguistic Society of America, 3(1), 53:1-15. doi:http://dx.doi.org/10.3765/plsa.v3i1.4349 [[full text](https://JeremyYeaton.github.io/papers/LSA2018_EnglishNCandDN.pdf) \| [BibTeX](https://JeremyYeaton.github.io/papers/BibTeX#Blanchette2018)]
 
 (2018). Déprez, V; **Yeaton, JD**. _French negative concord and discord: An experimental
 investigation of contextual and prosodic disambiguation._ Romance Languages and Linguistic

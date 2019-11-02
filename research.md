@@ -1,4 +1,4 @@
-# Research
+<a name="Current Projects"></a>
 ## Current projects
 - **Naturalistic speech and EEG in bilinguals:** Under the direction of [Giovanni Di Liberto](https://lsp.dec.ens.fr/en/member/7735/giovanni-di-liberto) and in collaboration with [Nima Mesgarani](http://nima.ee.columbia.edu/), I am investigating how [modulated semantic surprisal](https://www.biorxiv.org/content/10.1101/193201v1.full) can be observed in the EEG signals of native and non-native speakers listening to continuous, natural speech. The main methodology we use is the _multivariate Temporal Response Function_ [(mTRF)](https://www.ncbi.nlm.nih.gov/pubmed/27965557) which allows us to compare an EEG signal to a continuous speech stream, instead of brief discretized events as in ERPs. We are also looking at whether these and other measures can be used to decode proficiency from an EEG signal. Results from this work have been presented at [SNL 2019](https://jeremyyeaton.github.io/slides/posterSNL_final.pdf) in Helsinki, and [SfN19](https://jeremyyeaton.github.io/slides/SfN2019_L1L2.pdf) in Chicago.
 
@@ -11,6 +11,7 @@
 
 - **Naturalistic reading:** With [Jonathan Grainger](https://lpc.univ-amu.fr/fr/profile/grainger-jonathan) and the rest of the team at the [Laboratoire de Psychologie Cognitive](https://lpc.univ-amu.fr/en)  at Aix-Marseille Université, I am spearheading a project to investigate oculometric and EEG responses to sentence reading as part of a story. By co-registering eye-tracking and EEG data, we can use the eye-tracking data to establish when the eyes fixate on a given word and then look at the EEG responses from that point. While other studies have examined story reading, this study introduces a new paradigm allowing participants to read in a more natural fashion than single words appearing on the center of the screen one after another.
 
+<a name="Current Collaborators"></a>
 ## Current Collaborators
 - [Viviane Déprez](https://www.sites.google.com/site/experimentalsyntax4/), Rutgers University
 - [Giovanni Di Liberto](https://lsp.dec.ens.fr/en/member/7735/giovanni-di-liberto), École Normale Supérieure
@@ -25,6 +26,7 @@
 - [Yaru Wu](https://yaruwucven.wordpress.com/), Université Paris Nanterre
 
 
+<a name="Past Projects"></a>
 ## Past projects
 [Google Scholar](https://scholar.google.fr/citations?user=YkzLBuwAAAAJ&hl=en) | 
 [ORCID](https://orcid.org/0000-0002-6650-8080) | 
@@ -36,5 +38,6 @@
 
 - **Negative concord in English:** Based on the behavioral and production study [Viviane Deprez](https://www.sites.google.com/site/experimentalsyntax4/customization) and I did in French, [Frances Blanchette](https://cls.la.psu.edu/people/fkb), worked with us to adapt the paradigm to [use in English](https://JeremyYeaton.github.io/files/LSA2018_EnglishNCandDN.pdf). We found that native English speakers can access negative concord interpretations much more than previously thought and that context and prosody also play a major role in determining these interpretations.
 
+<a name="Past Collaborators"></a>
 ## Past Collaborators
 - [Frances Blanchette](https://sites.psu.edu/franceskblanchette/), Pennsylvania State University

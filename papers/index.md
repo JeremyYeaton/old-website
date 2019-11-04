@@ -13,7 +13,7 @@ investigation of contextual and prosodic disambiguation._ Romance Languages and 
 Theory 14: Selected papers from the 46th Linguistic Symposium on Romance Languages (LSRL),
 Stony Brook, NY. [[full text](https://JeremyYeaton.github.io/papers/lsrl_46.pdf) \| [BibTeX](https://JeremyYeaton.github.io/papers/BibTeX#DeprezYeaton2018)]
 
-(2015). **Yeaton, JD**. _The Roles of Context and Prosody in Disambiguating Utterances with Two Negative Expressions in French._ Unpublished undergraduate Thesis. Rutgers University, New Brunswick, NJ. [[full text](https://JeremyYeaton.github.io/papers/Yeaton_UndergradThesis.pdf) \| [BibTeX](https://JeremyYeaton.github.io/papers/BibTeX#YeatonThesis2015)]
+(2015). **Yeaton, JD**. _The Roles of Context and Prosody in Disambiguating Utterances with Two Negative Expressions in French._ Unpublished undergraduate thesis. Rutgers University, New Brunswick, NJ. [[full text](https://JeremyYeaton.github.io/papers/Yeaton_UndergradThesis.pdf) \| [BibTeX](https://JeremyYeaton.github.io/papers/BibTeX#YeatonThesis2015)]
 
 ## Working Papers (Draft available)
 **Yeaton, JD**; Loder, M; Déprez, V. _Prosody in French negative concord and double negation:  Evidence from production and perception._

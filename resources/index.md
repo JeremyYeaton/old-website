@@ -28,5 +28,13 @@ http://www.lexique.org/
 
 https://openneuro.org/public/datasets
 
+https://towardsdatascience.com/how-to-highlight-3d-brain-regions-2e6c15a35574
+
+https://deepblue.lib.umich.edu/data/concern/generic_works/bg257f92t
+
+http://matrix.ling.washington.edu/index.html
+
+https://nlp.stanford.edu/software/tagger.html#Download
+
 
 Copyright Notice: The documents distributed here have been provided as a means to ensure timely dissemination of scholarly and technical work on a noncommercial basis. Copyright and all rights therein are maintained by the authors or by other copyright holders, notwithstanding that they have offered their works here electronically. It is understood that all persons copying this information will adhere to the terms and constraints invoked by each author's copyright. These works may not be reposted without the explicit permission of the copyright holder.

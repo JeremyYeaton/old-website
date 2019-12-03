@@ -1,4 +1,4 @@
-## Continuous Natural Story Reading: a novel co-registration paradigm
+### Continuous Natural Story Reading: a novel co-registration paradigm
 
 **Status:** In development
 

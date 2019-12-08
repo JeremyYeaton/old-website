@@ -3,7 +3,7 @@
 **Status:** In development
 
 **Description:**
-This study introduces a new paradigm for EEG research into natural reading. A standard practice in reading research is to use the Rapid Serial Visual Presentation (RSVP) paradigm where a single word is presented in the center of the screen for a fixed number of milliseconds, followed by another word in the same postition and so on for the whole sentence. Many of these studies also use contrived, unnatural stimuli with carefully crafted errors or odditites to target specific ERP components (N400, P600, etc.). While these can be useful at asking specific questions, they do not allow much insight into the neural processes underlying reading in a natural setting. 
+This study introduces a new paradigm for EEG research into natural reading. A standard practice in reading research is to use the Rapid Serial Visual Presentation (RSVP) paradigm where a single word is presented in the center of the screen for a fixed number of milliseconds, followed by another word in the same postition and so on for the whole sentence. Many of these studies also use contrived, unnatural stimuli with carefully crafted errors or odditites to target specific ERP components (N400, P600, etc.). While these can be useful at asking specific questions about stimulus structure and perception, they do not allow much insight into the neural processes underlying reading in a natural setting. 
 
 My study differs from these in two ways: 1) I use natural stimuli that reflects normal reading conditions (chapters from a novel), and 2) I present whole paragraphs on the screen at a time, allowing participants not only to preview surrounding words, but also to skip, regress, and otherwise read at their own pace. 
 

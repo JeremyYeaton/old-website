@@ -6,7 +6,7 @@
 
 ### Publications
 
-(Submitted) Di Liberto, GM; Nie, J; **Yeaton, JD**; Khalighinejad, B; Shamma, S; Mesgarani, N. _How proficiency shapes the hierarchical cortical encoding of non-native speech._
+(Submitted) Di Liberto, GM; Nie, J; **Yeaton, JD**; Khalighinejad, B; Shamma, S; Mesgarani, N. _Neural representation of linguistic feature hierarchy reflects native versus second-language proficiency._
 
 (Accepted) Mirault, J; **Yeaton, JD**; Broqua, F; Dufau, S; Holcomb, P; Grainger, J. _Parafoveal-on-foveal repetition effects in sentence reading:  A co-registered eye-tracking and EEG study._ Psychophysiology. [[full text](https://JeremyYeaton.github.io/papers/Mirault-Psychophysiology-manuscript.pdf)\| [BibTeX](https://JeremyYeaton.github.io/papers/BibTeX#MiraultPsychophys2020)]
 

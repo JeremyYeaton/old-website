@@ -6,14 +6,16 @@
 	author = {Mirault, Jonathan and Yeaton, Jeremy and Broqua, Fanny and Dufau, Stéphane and Holcomb, Phillip J. and Grainger, Jonathan},
 	title = {Parafoveal-on-foveal repetition effects in sentence reading: A co-registered eye-tracking and electroencephalogram study},
 	journal = {Psychophysiology},
-	volume = {n/a},
-	number = {n/a},
+	volume = {57},
+	number = {4},
 	pages = {e13553},
+	year = {2020},
+	editor = {Monica Fabiani},
 	keywords = {eye-movements, fixation-related-potentials, parafoveal-on-foveal effects, parallel processing, reading},
 	doi = {10.1111/psyp.13553},
 	url = {https://onlinelibrary.wiley.com/doi/abs/10.1111/psyp.13553},
 	eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1111/psyp.13553},
-	abstract = {Abstract When reading, can the next word in the sentence (word n + 1) influence how you read the word you are currently looking at (word n)? Serial models of sentence reading state that this generally should not be the case, whereas parallel models predict that this should be the case. Here we focus on perhaps the simplest and the strongest Parafoveal-on-Foveal (PoF) manipulation: word n + 1 is either the same as word n or a different word. Participants read sentences for comprehension and when their eyes left word n, the repeated or unrelated word at position n + 1 was swapped for a word that provided a syntactically correct continuation of the sentence. We recorded electroencephalogram and eye-movements, and time-locked the analysis of fixation-related potentials (FRPs) to fixation of word n. We found robust PoF repetition effects on gaze durations on word n, and also on the initial landing position on word n. Most important is that we also observed significant effects in FRPs, reaching significance at 260 ms post-fixation of word n. Repetition of the target word n at position n + 1 caused a widely distributed reduced negativity in the FRPs. Given the timing of this effect, we argue that it is driven by orthographic processing of word n + 1, while readers were still looking at word n, plus the spatial integration of orthographic information extracted from these two words in parallel.}
+	abstract = {Abstract When reading, can the next word in the sentence (word n + 1) influence how you read the word you are currently looking at (word n)? Serial models of sentence reading state that this generally should not be the case, whereas parallel models predict that this should be the case. Here we focus on perhaps the simplest and the strongest Parafoveal-on-Foveal (PoF) manipulation: word n + 1 is either the same as word n or a different word. Participants read sentences for comprehension and when their eyes left word n, the repeated or unrelated word at position n + 1 was swapped for a word that provided a syntactically correct continuation of the sentence. We recorded electroencephalogram and eye-movements, and time-locked the analysis of fixation-related potentials (FRPs) to fixation of word n. We found robust PoF repetition effects on gaze durations on word n, and also on the initial landing position on word n. Most important is that we also observed significant effects in FRPs, reaching significance at 260 ms post-fixation of word n. Repetition of the target word n at position n + 1 caused a widely distributed reduced negativity in the FRPs. Given the timing of this effect, we argue that it is driven by orthographic processing of word n + 1, while readers were still looking at word n, plus the spatial integration of orthographic information extracted from these two words in parallel.}
 }
 
 

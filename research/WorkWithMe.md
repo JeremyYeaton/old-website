@@ -1,7 +1,7 @@
 ## Collaborate with me!
+I'm always open to new collaborations! 
 
-
-I'm always open to new collaborations! **Do you have a laboratory experiment you'd like to do in any of the following domains?**
+**Do you have a laboratory experiment you'd like to do in any of the following domains?**
 - (Psycho) Linguistics
 - Cognitive Psychology
 - Cognitive Neuroscience (EEG, eye-tracking)

@@ -1,4 +1,5 @@
-Do you have a laboratory experiment you'd like to do in any of the following domains?
+### Collaborate with me!
+I'm always open to new collaborations! Do you have a laboratory experiment you'd like to do in any of the following domains?
 - (Psycho)Linguistics
 - Cognitive Psychology
 - Cognitive Neuroscience (EEG, eye-tracking)
@@ -16,7 +17,7 @@ I can serve as your offsite lab engineer, providing the following services:
 
 
 What I (usually) don't do:
-- Linguistic stimulus production
+- Stimulus creation
 - Data collection
 
-All of this is negotiable. If you think you'd like to collaborate, send me an email and we can work out the details! 
+All of this is negotiable. If you think you'd like to collaborate, send me an [email](mailto:jdyeaton27@gmail.com) and we can work out the details! 

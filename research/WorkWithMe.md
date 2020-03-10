@@ -6,7 +6,7 @@ I'm always open to new collaborations!
 - Cognitive Psychology
 - Cognitive Neuroscience (EEG, eye-tracking)
 
-**But you don't have a lab engineer or graduate student for the project?** No problem!
+**But you don't have a lab engineer or graduate student for the project? No problem!**
 
 **I can serve as your offsite lab engineer, providing the following services:**
 - Experimental design consulatation

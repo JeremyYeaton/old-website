@@ -18,8 +18,8 @@ I'm always open to new collaborations!
 - Writing up Methods and Results sections
 
 
-What I (usually) don't do:
+<!--What I (usually) don't do:
 - Stimulus creation
-- Data collection
+- Data collection-->
 
 All of this is negotiable. If you think you'd like to collaborate, send me an [email](mailto:jdyeaton27@gmail.com) and we can work out the details! 

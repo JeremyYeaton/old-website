@@ -11,9 +11,7 @@ I'm interested in how meaning and structure in language are represented in the b
 
 A native of New Jersey, I double majored in [Linguistics](https://sites.google.com/site/experimentalsyntax4/home) & French, and minored in Chinese at Rutgers University - New Brunswick. After graduating, I worked for a year at the US Department of State's [School of Language Studies](https://www.state.gov/m/fsi/sls/) outside Washington, DC, spent a year in [Haskovo (Хасково)](https://en.wikipedia.org/wiki/Haskovo), Bulgaria teaching English to high schoolers on a [Fulbright](http://www.fulbright.bg/en/) grant, and then moved to Paris to complete my master's degree in Cognitive Science at the [École Normale Supérieure](https://cognition.ens.fr/en). My [master's thesis](https://jeremyyeaton.github.io/papers/Yeaton_MasterThesis.pdf) was on the impact of proficiency and executive functioning on the processing of syntactic (in this case word order) violations in a second language. 
 
-[See here](https://JeremyYeaton.github.io/research) for some of my other projects.
-
-[**Collaborate with me!**](https://jeremyyeaton.github.io/research/WorkWithMe)
+[See here](https://JeremyYeaton.github.io/research) for some of my other projects or [collaborate with me!](https://jeremyyeaton.github.io/research/WorkWithMe)
 
 [Google Scholar](https://scholar.google.fr/citations?user=YkzLBuwAAAAJ&hl=en) | 
 [ORCID](https://orcid.org/0000-0002-6650-8080) | 

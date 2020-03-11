@@ -13,6 +13,8 @@ A native of New Jersey, I double majored in [Linguistics](https://sites.google.c
 
 [See here](https://JeremyYeaton.github.io/research) for some of my other projects.
 
+[**Collaborate with me!**](https://jeremyyeaton.github.io/research/WorkWithMe)
+
 [Google Scholar](https://scholar.google.fr/citations?user=YkzLBuwAAAAJ&hl=en) | 
 [ORCID](https://orcid.org/0000-0002-6650-8080) | 
 [ResearchGate](https://www.researchgate.net/profile/Jeremy_Yeaton) |

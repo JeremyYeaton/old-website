@@ -1,7 +1,6 @@
 <!-- reorganize by theme instead of project -->
 <a name="Current Projects"></a>
 ## Current projects
-[Collaborate with me!](https://jeremyyeaton.github.io/research/WorkWithMe)
 
 - **Natural story reading in a co-registration paradigm:** With [Jonathan Grainger](https://lpc.univ-amu.fr/fr/profile/grainger-jonathan) and the Language team at the [Laboratoire de Psychologie Cognitive](https://lpc.univ-amu.fr/en) at Aix-Marseille Université, I am spearheading a project to investigate oculometric and EEG responses to natural reading of a story. While other neurophysiological studies have examined story reading, this study introduces a new paradigm allowing participants to read in a more natural fashion than the traditional serial presentation paradigm where single words appearing on the center of the screen one after another.
 
@@ -17,6 +16,7 @@
 
 <a name="Current Collaborators"></a>
 ## Current Collaborators
+[**Collaborate with me!**](https://jeremyyeaton.github.io/research/WorkWithMe)
 - [Viviane Déprez](https://www.sites.google.com/site/experimentalsyntax4/), Rutgers University
 - [Giovanni Di Liberto](https://lsp.dec.ens.fr/en/member/7735/giovanni-di-liberto), École Normale Supérieure
 - [Jonathan Grainger](https://lpc.univ-amu.fr/fr/profile/grainger-jonathan), Aix-Marseille Université

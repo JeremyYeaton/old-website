@@ -22,4 +22,4 @@ I'm always open to new collaborations!
 - Stimulus creation
 - Data collection-->
 
-All of this is negotiable. If you think you'd like to collaborate, send me an [email](mailto:jdyeaton27@gmail.com) and we can work out the details! 
+If you think you'd like to collaborate, send me an [email](mailto:jdyeaton27@gmail.com). I'm always excited to learn new methods or topics, so if you think I might be useful, shoot me a message and we can figure it out!

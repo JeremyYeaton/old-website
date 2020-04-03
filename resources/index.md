@@ -62,4 +62,12 @@ https://github.com/jorvlan/open-visualizations
 
 https://t4scientists.com/
 
+http://openjdata.org/
+
+http://mcx.space/
+
+https://www.andysbrainblog.com/
+
+https://afni.nimh.nih.gov/pub/dist/doc/htmldoc/background_install/unix_tutorial/index.html
+
 Copyright Notice: The documents distributed here have been provided as a means to ensure timely dissemination of scholarly and technical work on a noncommercial basis. Copyright and all rights therein are maintained by the authors or by other copyright holders, notwithstanding that they have offered their works here electronically. It is understood that all persons copying this information will adhere to the terms and constraints invoked by each author's copyright. These works may not be reposted without the explicit permission of the copyright holder.

@@ -76,4 +76,14 @@ http://matthew.dynevor.org/
 
 https://irispublishers.com/sjrr/pdf/SJRR.MS.ID.000540.pdf
 
+https://conf.ling.cornell.edu/sbhattasali/
+
+https://towardsdatascience.com/the-deep-music-visualizer-using-sound-to-explore-the-latent-space-of-biggan-198cd37dac9a
+
+https://56842a81-fc4e-47c6-9a07-3bb3c5296cb5.filesusr.com/ugd/13f374_60dacad54af84b468a3e2c76d469d253.pdf
+
+https://www.youtube.com/channel/UC40RiNZN7_dCuB6Lg7HJl1g
+
+https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU
+
 Copyright Notice: The documents distributed here have been provided as a means to ensure timely dissemination of scholarly and technical work on a noncommercial basis. Copyright and all rights therein are maintained by the authors or by other copyright holders, notwithstanding that they have offered their works here electronically. It is understood that all persons copying this information will adhere to the terms and constraints invoked by each author's copyright. These works may not be reposted without the explicit permission of the copyright holder.

@@ -86,6 +86,8 @@ https://www.youtube.com/channel/UC40RiNZN7_dCuB6Lg7HJl1g
 
 https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU
 
+http://cs229.stanford.edu/syllabus-autumn2018.html
+
 https://www.deeplearning.ai/machine-learning-yearning/
 
 https://www.princeton.edu/~joha/Johannes_Haushofer_CV_of_Failures.pdf

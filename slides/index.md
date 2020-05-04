@@ -1,4 +1,4 @@
-## A selection of talks and posters I've presented
+## A selection of talks and posters I've presented or co-authored
 
 See [my CV](https://jeremyyeaton.github.io/cv) for a complete list of posters and presentations.
 
@@ -9,6 +9,8 @@ See [my CV](https://jeremyyeaton.github.io/cv) for a complete list of posters an
 (2018). Evidence for Prosodic Phrase Marking in French Double Negation. ConSOLE 26 (Feb. 16, 2018) [[slides]](https://JeremyYeaton.github.io/slides/console_2018.pdf)
 
 ### Posters
+(2020). Do Mandarin-French bilinguals hear Chinese when readingFrench? ERP evidence of proficiency level. 27th Annual Meeting of the Cognitive NeuroscienceSociety (CNS 2020), Boston, MA, USA. May 2-5, 2020. [[poster]](https://JeremyYeaton.github.io/slides/CNS2020_POSTER_YW.pdf)
+
 (2019). How proficiency shapes the hierarchical cortical encoding of non-native speech. Eleventh Annual Meeting of the Society for the Neurobiology of Language (SNL), Helsinki, Finland. August 20-22, 2019. [[poster]](https://JeremyYeaton.github.io/slides/posterSNL_final.pdf)
 
 (2018). English Negative Concord and Double Negation: The division of labor between syntax and pragmatics. LSA 92 (Jan. 4-17, 2018) [[poster]](https://JeremyYeaton.github.io/slides/lsa2018poster.pdf)

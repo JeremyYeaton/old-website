@@ -23,3 +23,13 @@ https://spacy.io/universe/project/spacy-lefff
 https://spacy.io/universe/project/allennlp
 
 https://allennlp.org/tutorials
+
+https://github.com/UniversalDependencies/UD_French-Sequoia
+
+https://spacy.io/usage/spacy-101
+
+https://towardsdatascience.com/word2vec-from-scratch-with-numpy-8786ddd49e72
+
+https://towardsdatascience.com/a-beginners-guide-to-word-embedding-with-gensim-word2vec-model-5970fa56cc92
+
+

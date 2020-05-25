@@ -32,4 +32,6 @@ https://towardsdatascience.com/word2vec-from-scratch-with-numpy-8786ddd49e72
 
 https://towardsdatascience.com/a-beginners-guide-to-word-embedding-with-gensim-word2vec-model-5970fa56cc92
 
+https://github.com/ujhuyz0110/wrd_emb/blob/master/word2vec_skipgram_medium_v1.ipynb
+
 

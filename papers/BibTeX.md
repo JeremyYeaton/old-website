@@ -1,6 +1,23 @@
 ## BibTeX
 <div class="entry-content" itemprop="text">
 			<pre><code style="font-size: 13px;">
+
+<a name="DiLiberto2020L2"></a>
+@article {DiLibertoL22020L2,
+	author = {Di Liberto, Giovanni and Nie, Jingping and Yeaton, Jeremy and Khalighinejad, Bahar and Shamma, Shihab and Mesgarani, Nima},
+	title = {Neural representation of linguistic feature hierarchy reflects second-language proficiency},
+	elocation-id = {2020.06.15.142554},
+	year = {2020},
+	doi = {10.1101/2020.06.15.142554},
+	publisher = {Cold Spring Harbor Laboratory},
+	abstract = {Acquiring a new language requires a simultaneous and gradual learning of multiple levels of linguistic attributes. Here, we investigated how this process changes the neural encoding of natural speech by assessing the encoding of the linguistic feature hierarchy in second-language listeners. Electroencephalography (EEG) signals were recorded from native English and native Mandarin speakers with varied English proficiency as they listened to English stories. The neural encoding of acoustic, phonemic, phonotactic, and semantic features was measured in individual participants. We found a progressive convergence of linguistic feature representation in native and nonnative listeners with increased proficiency, which enabled accurate decoding of language proficiency. At the same time, we found distinct neural signatures in native and nonnative listeners that persisted even in the most proficient listeners. This detailed view advances our understanding of the cortical processing of linguistic information in second-language learners and provides an objective measure of language proficiency.Competing Interest StatementThe authors have declared no competing interest.},
+	URL = {https://www.biorxiv.org/content/early/2020/06/15/2020.06.15.142554},
+	eprint = {https://www.biorxiv.org/content/early/2020/06/15/2020.06.15.142554.full.pdf},
+	journal = {bioRxiv}
+}
+			
+			
+			
 <a name="MiraultPsychophys2020"></a>
 @article{MiraultPsychophys2020,
 	author = {Mirault, Jonathan and Yeaton, Jeremy and Broqua, Fanny and Dufau, Stéphane and Holcomb, Phillip J. and Grainger, Jonathan},

@@ -6,7 +6,7 @@
 
 ### Publications
 
-(Submitted) Di Liberto, GM; Nie, J; **Yeaton, JD**; Khalighinejad, B; Shamma, S; Mesgarani, N. _Neural representation of linguistic feature hierarchy reflects native versus second-language proficiency._ [[Pre-print](https://www.biorxiv.org/content/10.1101/2020.06.15.142554v1) \|[BibTeX](https://JeremyYeaton.github.io/papers/BibTeX#DiLiberto2020L2)]]
+(Submitted) Di Liberto, GM; Nie, J; **Yeaton, JD**; Khalighinejad, B; Shamma, S; Mesgarani, N. _Neural representation of linguistic feature hierarchy reflects native versus second-language proficiency._ [[Pre-print](https://www.biorxiv.org/content/10.1101/2020.06.15.142554v1) \|[BibTeX](https://JeremyYeaton.github.io/papers/BibTeX#DiLiberto2020L2)]
 
 (2020). Mirault, J; **Yeaton, JD**; Broqua, F; Dufau, S; Holcomb, P; Grainger, J. _Parafoveal‐on‐foveal repetition effects in sentence reading: A co‐registered eye‐tracking and electroencephalogram study._ Psychophysiology. [[full text](https://JeremyYeaton.github.io/papers/Mirault_et_al-2020-Psychophysiology.pdf) \| [BibTeX](https://JeremyYeaton.github.io/papers/BibTeX#MiraultPsychophys2020)]
 

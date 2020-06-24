@@ -1,25 +1,29 @@
 ## Collaborate with me!
-I'm always open to new collaborations! 
+I'm always open to new collaborations either as an engineer or an intellectual contributor! 
 
-**Do you have a laboratory experiment you'd like to do in any of the following domains?**
+**If you think what I do is interesting** and you'd like to work with me send me an [email](mailto:jdyeaton27@gmail.com).
+
+or
+
+**If you just need someone with technical expertise** to implement a study you'd like to do in any of these domains:
 - (Psycho) Linguistics
 - Cognitive Psychology
 - Cognitive Neuroscience (EEG, eye-tracking)
 
-**But you don't have a lab engineer or graduate student for the project? No problem!**
+I can serve in a support role to help design, program, implement, and analyse a human-subjects experiment.
 
-**I can serve as your offsite lab engineer, providing the following services:**
+<!--**I can serve as your offsite lab engineer, providing the following services:**
 - Experimental design consulatation
 - Programming experimental task(s) in e.g.: PsychToolbox, exPyriment, OpenSesame
 - On-site installations & training research assistants
 - Data processing and analysis
 - Running statistics
 - Producing figures
-- Writing up Methods and Results sections
+- Writing up Methods and Results sections-->
 
 
 <!--What I (usually) don't do:
 - Stimulus creation
 - Data collection-->
 
-If you think you'd like to collaborate, send me an [email](mailto:jdyeaton27@gmail.com). I'm always excited to learn new methods or topics, so if you think I might be useful, shoot me a message and we can figure it out!
+If you think I might be useful to your study, send me an [email](mailto:jdyeaton27@gmail.com). I'm always excited to learn new methods or topics, so shoot me a message and we can figure it out!

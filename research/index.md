@@ -28,8 +28,8 @@
 - [Arnaud Rey](https://arnaudrey.jimdofree.com/), Aix-Marseille Université
 - [Frederic Isel](https://modyco.fr/fr/component/jsn/Frederic.html), Université Paris Nanterre
 - [Caroline Bogliotti](https://caroline-bogliotti.parisnanterre.fr/), Université Paris Nanterre
-- [Carlo Geraci](https://sites.google.com/site/carlogeraci76/), École Normale Supérieure
-- [Jeremy Kuhn](http://jeremykuhn.net/), École Normale Supérieure
+<!--- - [Carlo Geraci](https://sites.google.com/site/carlogeraci76/), École Normale Supérieure
+- [Jeremy Kuhn](http://jeremykuhn.net/), École Normale Supérieure -->
 - [Yaru Wu](https://yaruwucven.wordpress.com/), Université Paris Nanterre
 
 

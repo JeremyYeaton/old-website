@@ -34,4 +34,6 @@ https://towardsdatascience.com/a-beginners-guide-to-word-embedding-with-gensim-w
 
 https://github.com/ujhuyz0110/wrd_emb/blob/master/word2vec_skipgram_medium_v1.ipynb
 
+https://huggingface.co/
+
 

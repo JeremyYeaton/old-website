@@ -24,7 +24,7 @@
 	title = {Parafoveal-on-foveal repetition effects in sentence reading: A co-registered eye-tracking and electroencephalogram study},
 	journal = {Psychophysiology},
 	volume = {57},
-	number = {4},
+	number = {8},
 	pages = {e13553},
 	year = {2020},
 	editor = {Monica Fabiani},

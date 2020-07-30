@@ -3,7 +3,7 @@
 			<pre><code style="font-size: 13px;">
 
 <a name="DiLiberto2020L2"></a>
-@article {DiLibertoL22020L2,
+@article {DiLiberto2020L2,
 	author = {Di Liberto, Giovanni and Nie, Jingping and Yeaton, Jeremy and Khalighinejad, Bahar and Shamma, Shihab and Mesgarani, Nima},
 	title = {Neural representation of linguistic feature hierarchy reflects second-language proficiency},
 	elocation-id = {2020.06.15.142554},

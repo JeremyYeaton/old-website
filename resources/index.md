@@ -108,4 +108,9 @@ https://github.com/NeuromatchAcademy/precourse
 
 https://twitter.com/neurojojo/status/1267503189697462272
 
+https://slipsum.com/?fbclid=IwAR3zr6tAjIcoHARmIIZQAgnZ8OSyAwfJq6_TDso_0GMZiRCYztoeO8ZY0SQ
+
+https://www.datasciencecentral.com/profiles/blogs/free-book-on-statistics-larry-wasserman-s-all-of-statistics
+
+
 Copyright Notice: The documents distributed here have been provided as a means to ensure timely dissemination of scholarly and technical work on a noncommercial basis. Copyright and all rights therein are maintained by the authors or by other copyright holders, notwithstanding that they have offered their works here electronically. It is understood that all persons copying this information will adhere to the terms and constraints invoked by each author's copyright. These works may not be reposted without the explicit permission of the copyright holder.

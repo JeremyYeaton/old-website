@@ -9,7 +9,8 @@
 
 - **Parallel syntactic processing in reading:** With [Stephane Dufau](https://lpc.univ-amu.fr/fr/profile/dufau-stephane) and [Jonathan Grainger](https://lpc.univ-amu.fr/fr/profile/grainger-jonathan), we are using MEG to more closely examine where and when effects arise in response to syntactictically well-formed and not well formed strings of the same words presented very briefly in parallel. The MEG study presents a follow up to [this ERP study](https://psycnet.apa.org/fulltext/2020-03640-001.html) from our team which was published earlier in 2020.
 
-<!--- **L1 interference in L2 processing:** With [Yaru Wu](https://yaruwucven.wordpress.com/) and [Frederic Isel](https://modyco.fr/fr/component/jsn/Frederic.html), we are conducting an ERP study examining whether phonological similarity of translation equivalents (in the L2) of two words in the L1 helps facilitate their processing, without relying on semantic similarity.
+<!--- **Sequence learning in baboons:** 
+- **L1 interference in L2 processing:** With [Yaru Wu](https://yaruwucven.wordpress.com/) and [Frederic Isel](https://modyco.fr/fr/component/jsn/Frederic.html), we are conducting an ERP study examining whether phonological similarity of translation equivalents (in the L2) of two words in the L1 helps facilitate their processing, without relying on semantic similarity.
 - **Syntactic, semantic, and phonological violations in sign language:** Under the direction of [Caroline Bogliotti](https://caroline-bogliotti.parisnanterre.fr/), I am helping to conduct two EEG studies. The first seeks to examine ERPs (P600) in response to syntactically ill-formed sentences presented in French sign language. The other seeks to elicit semantic and phonological incongruency ERPs in the same paradigm.
 - **Sign language perception:** Under the direction of [Giovanni Di Liberto](https://lsp.dec.ens.fr/en/member/7735/giovanni-di-liberto), [Carlo Geraci](https://sites.google.com/site/carlogeraci76/), and [Jeremy Kuhn](http://jeremykuhn.net/), we will record EEG while signers watch videos of stories presented in French Sign Language (Langue des Signes Française--LSF). We can then compare the phonetic, semantic, and syntactic features of the stimuli to their EEG signals and examine a) where and when these are represented in the brain, and b) if and how the tracking of these linguistic features in the visual modality differs from speech in the auditory modality. -->
 
@@ -27,6 +28,7 @@
 - [Frederic Isel](https://modyco.fr/fr/component/jsn/Frederic.html), Université Paris Nanterre
 - [Caroline Bogliotti](https://caroline-bogliotti.parisnanterre.fr/), Université Paris Nanterre
 - [Yaru Wu](https://yaruwucven.wordpress.com/), Université Paris Nanterre
+<!-- Joel Fagot, Jeremy Kuhn, Carlo Geraci, William Matchin, Gregory Hickok -->
 
 
 <a name="Past Projects"></a>

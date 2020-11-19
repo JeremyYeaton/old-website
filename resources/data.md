@@ -12,6 +12,8 @@ https://openneuro.org/public/datasets
 
 https://deepblue.lib.umich.edu/data/concern/generic_works/bg257f92t
 
+https://github.com/meagmohit/EEG-Datasets
+
 Where to store data you've collected so other people can find it:
 https://zenodo.org/deposit/new
 

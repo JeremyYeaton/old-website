@@ -6,6 +6,15 @@ tags
 abstract/ description
 outputs (presentations/papers/posters/etc)
 
+Methods keywords: EEG, Eye-tracking, Co-registration, behavioral, computational modelling, animal models, linear mixed models, bayesian statistics, ERPs, FRPs, mTRFs, MEG
+
+meta-analysis, fMRI, many pipelines
+
+Topics keywords: reading, natural reading, natural listening, speech processing, language processing, language comprehension, bilingualism, L2, comparative cognition, baboons, sequence learning, language, linguistics, psycholinguistics, neurolinguistics, neurobiology of language, cognitive neuroscience, syntax, prosody, phonetics, negation, sign language, French sign language (LSF), French, American English, Chinese (Mandarin), Swedish, language interference, letter sequencing, parafoveal-on-foveal, negative concord, double negation, sentence superiority
+
+bilingual advantage, executive functioning
+lemmas, aphasia, stroke, lexical access, word production, neuropsychology, 
+
 [All projects]()
 
 Topics:

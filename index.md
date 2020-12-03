@@ -1,7 +1,7 @@
 ![Poster presentation](files/poster.jpg)
 
 ## About me
-I am a PhD student in [Language Science](https://www.langsci.uci.edu/) at the University of California, Irvine. I'm generally interested in how language is stored, structured, and processed in the brain. If this seems super broad, that's because it is. I'm interested in all of it. At the moment, though, I'm looking at the lemma level (i.e.: the representation of words in the brain before you put sounds to them).
+I am a PhD student in [Language Science](https://www.langsci.uci.edu/) at the University of California, Irvine. I'm generally interested in how language is stored, structured, and processed in the brain. At the moment, I'm working on the lemma level (i.e.: the representation of words in the brain before you put sounds to them).
 <!--- I'm interested in how meaning and structure in language are represented in the brain, especially the processes used to combine smaller units (e.g.: phonemes, words) into larger units (e.g.: words, phrases) in real time. Methodologically, I'm interested in exploring how we can use novel combinations of experimental and computational tools to probe these representations and processes. What do I do; what am i interested in? --->
 
 <!--- , and am fascinated with how meaning and structure in language are represented in the brain, as well as how the representations of languages might interact in speakers (or signers) who know more than one. My [master's thesis](https://jeremyyeaton.github.io/papers/Yeaton_MasterThesis.pdf) was on the impact of proficiency and executive functioning on the processing of syntactic (in this case word order) violations in a second language.   --->
